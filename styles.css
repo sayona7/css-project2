@@ -43,3 +43,44 @@ body {
   #font2 {
     font-weight: 700;
   }
+
+  /* Text Styles Section */
+.text-styles {
+    margin-bottom: 30px;
+  }
+  
+  .text-style {
+    margin-bottom: 10px;
+  }
+  
+  #textStyle1 {
+    font-weight: 700;
+  }
+  
+  #textStyle2 {
+    font-style: italic;
+  }
+  
+  #textStyle3 {
+    text-decoration: underline;
+  }
+
+  /* Heading Styles */
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
